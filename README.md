@@ -1,7 +1,7 @@
 ## Hi there! My name is Victor Lucena Scherer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorscherer/)](https://www.linkedin.com/in/victorscherer/)
-[![hotmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor_scherer@hotmail.com)](mailto:victor_scherer@hotmail.com) 
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor_scherer@hotmail.com)](mailto:victor_scherer@hotmail.com) 
 
 ### I'm web a fullstack developer.
 
