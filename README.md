@@ -5,7 +5,7 @@
 
 ### I'm web a fullstack developer.
 
-- 🙋‍♂️ I'm 29 years old and based in Sarandi, Paraná, Brazil
+- 🙋‍♂️ I'm 30 years old and based in Sarandi, Paraná, Brazil
 
 - 📖 I've been studying web fullstack development at Kenzie Academy Brasil for the last year. Currently I have completed the course and I continue to study technologies such as CSS preprocessors, in-depth studies in React and Next.js.
 
